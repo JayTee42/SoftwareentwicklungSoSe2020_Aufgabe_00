@@ -40,3 +40,5 @@ Referenzen
 [1] Bis hier her siehe: Joseph Albahari; Ben Albahari: C# 6.0 in a Nutshell. The Definitive Reference. 6. Auflage. O'Reilly, Sebastopol 2016, ISBN 978-1-4919-2706-9, S. 1–6. Joseph Albahari; Ben Albahari: C# 6.0 Pocket Reference Instant Help for C# 6.0 Programmers. O'Reilly, Sebastopol 2015, ISBN 978-1-4919-2741-0, S. 1.
 
 [2] http://standards.iso.org/ittf/PubliclyAvailableStandards/c042926_ISO_IEC_23270_2006(E).zip
+
+Update!
